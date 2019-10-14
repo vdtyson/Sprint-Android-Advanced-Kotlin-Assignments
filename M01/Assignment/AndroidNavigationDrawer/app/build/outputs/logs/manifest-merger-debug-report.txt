@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/4e4d5ec77e69c87f8eecb6538daa01c3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/b7a54a9482ec93a7a0726ac7b3ed8a53/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/41beaee3f77bbdbdf85486e3a6c2c467/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/a7b17f3fbccecb12558bbfca16d63bf1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/979afdb31ee702e348dbc9a5d8fa5849/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/197b2ee1a9c2442a698f5fef74ea36d4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/275877b93772d85df92faed9479954c5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/be469091044b77823e5be60ca610c143/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/daae18f56c38abf9ab4e2c8b4ed568dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/7415edbb9aa4e34c04f969900d2a1ba5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/e548f35590d31b548c18da5b6c7d8892/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/2d5c8801f10fce890741be5a26662916/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/0d7490fe574a6e207c6adbf13d803755/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/6293fc534a51d819a6c4aa96c2e4cac4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/d8f7d4af532eb7af78dc7088253cdbf1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/d06dda6947d308ca432cc7342f129348/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/2ecff7fb3b330ba822d4796cdf272228/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/a9cda0f8b9044e2cbd5ddd06129f026a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/de4769bf164a8bcd97ca331142e333d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/3337153b8c66ed622213c6a5bf3f457a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/667caa4a06cbbd854669bba5ea7592ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/429e591b20433652d622e21042ca52d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/3a42966959c9634eb494f5e1a2d6dab5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/87854be92752fbccdf0504de5c934fb5/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/f7e85fbf7862061143cc8740d054ad15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/db58a381cd172d8ed3d56b4e1ddcfeff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/909b21ef866945d757849f82b6e28f68/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/1729bfcb63582a239f5315ef00e97f11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/9d106ff9b97f10d6ea990156498867b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/678ad4a11e14b88c6fe6f6669e15ccb1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/1bf4e416e999d32bf0f5fa5d0aa4b4be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/4fced6f58237b196213708e298f0815b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/e550ccad83e3d6de067555be84d7281d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/61a339833c306af95bb117862304784e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/cc98789c3709b58f1a44690980ee354d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/7606779ef0c69f2f0c1fa6335ff78a0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/5031a69a96c226c909ed991754f2196b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:3:5-63
+		INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/4e4d5ec77e69c87f8eecb6538daa01c3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/4e4d5ec77e69c87f8eecb6538daa01c3/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/979afdb31ee702e348dbc9a5d8fa5849/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/979afdb31ee702e348dbc9a5d8fa5849/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/87854be92752fbccdf0504de5c934fb5/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/87854be92752fbccdf0504de5c934fb5/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/909b21ef866945d757849f82b6e28f68/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/909b21ef866945d757849f82b6e28f68/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/87854be92752fbccdf0504de5c934fb5/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.lambdaschool.android.androidnavigationdrawer.MainActivity
+ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/4e4d5ec77e69c87f8eecb6538daa01c3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/4e4d5ec77e69c87f8eecb6538daa01c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/b7a54a9482ec93a7a0726ac7b3ed8a53/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/b7a54a9482ec93a7a0726ac7b3ed8a53/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/41beaee3f77bbdbdf85486e3a6c2c467/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/41beaee3f77bbdbdf85486e3a6c2c467/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/a7b17f3fbccecb12558bbfca16d63bf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/a7b17f3fbccecb12558bbfca16d63bf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/979afdb31ee702e348dbc9a5d8fa5849/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/979afdb31ee702e348dbc9a5d8fa5849/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/197b2ee1a9c2442a698f5fef74ea36d4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/197b2ee1a9c2442a698f5fef74ea36d4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/275877b93772d85df92faed9479954c5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/275877b93772d85df92faed9479954c5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/be469091044b77823e5be60ca610c143/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/be469091044b77823e5be60ca610c143/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/daae18f56c38abf9ab4e2c8b4ed568dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/daae18f56c38abf9ab4e2c8b4ed568dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/7415edbb9aa4e34c04f969900d2a1ba5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/7415edbb9aa4e34c04f969900d2a1ba5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/e548f35590d31b548c18da5b6c7d8892/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/e548f35590d31b548c18da5b6c7d8892/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/2d5c8801f10fce890741be5a26662916/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/2d5c8801f10fce890741be5a26662916/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/0d7490fe574a6e207c6adbf13d803755/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/0d7490fe574a6e207c6adbf13d803755/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/6293fc534a51d819a6c4aa96c2e4cac4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/6293fc534a51d819a6c4aa96c2e4cac4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/d8f7d4af532eb7af78dc7088253cdbf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/d8f7d4af532eb7af78dc7088253cdbf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/d06dda6947d308ca432cc7342f129348/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/d06dda6947d308ca432cc7342f129348/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/2ecff7fb3b330ba822d4796cdf272228/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/2ecff7fb3b330ba822d4796cdf272228/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/a9cda0f8b9044e2cbd5ddd06129f026a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/a9cda0f8b9044e2cbd5ddd06129f026a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/de4769bf164a8bcd97ca331142e333d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/de4769bf164a8bcd97ca331142e333d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/3337153b8c66ed622213c6a5bf3f457a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/3337153b8c66ed622213c6a5bf3f457a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/667caa4a06cbbd854669bba5ea7592ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/667caa4a06cbbd854669bba5ea7592ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/429e591b20433652d622e21042ca52d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/429e591b20433652d622e21042ca52d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/3a42966959c9634eb494f5e1a2d6dab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/3a42966959c9634eb494f5e1a2d6dab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/87854be92752fbccdf0504de5c934fb5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/87854be92752fbccdf0504de5c934fb5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/f7e85fbf7862061143cc8740d054ad15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/f7e85fbf7862061143cc8740d054ad15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/db58a381cd172d8ed3d56b4e1ddcfeff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/db58a381cd172d8ed3d56b4e1ddcfeff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/909b21ef866945d757849f82b6e28f68/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/909b21ef866945d757849f82b6e28f68/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/1729bfcb63582a239f5315ef00e97f11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/1729bfcb63582a239f5315ef00e97f11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/9d106ff9b97f10d6ea990156498867b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/9d106ff9b97f10d6ea990156498867b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/678ad4a11e14b88c6fe6f6669e15ccb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/678ad4a11e14b88c6fe6f6669e15ccb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/1bf4e416e999d32bf0f5fa5d0aa4b4be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/1bf4e416e999d32bf0f5fa5d0aa4b4be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/4fced6f58237b196213708e298f0815b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/4fced6f58237b196213708e298f0815b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/e550ccad83e3d6de067555be84d7281d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/e550ccad83e3d6de067555be84d7281d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/61a339833c306af95bb117862304784e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/61a339833c306af95bb117862304784e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/cc98789c3709b58f1a44690980ee354d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/cc98789c3709b58f1a44690980ee354d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/7606779ef0c69f2f0c1fa6335ff78a0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/7606779ef0c69f2f0c1fa6335ff78a0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/5031a69a96c226c909ed991754f2196b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jmschultz/.gradle/caches/transforms-2/files-2.1/5031a69a96c226c909ed991754f2196b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jmschultz/git/android-NavigationDrawer/AndroidNavigationDrawer/app/src/main/AndroidManifest.xml
