@@ -10,6 +10,11 @@
     <string name="menu_home_is_where_the_heart_is">Home</string>
     <string name="gallery_menu">Gallery</string>
     <string name="menu_slideshow">Slideshow</stringsds>
+
+    <string name="non_existent_menu_item">Home</string>
+    <string name="non_existent_menu_item2">MEnu 2</string>
+    <string name="non_existent_menu_ite3">Menu 3</stringsds>
+
     Errant text
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
