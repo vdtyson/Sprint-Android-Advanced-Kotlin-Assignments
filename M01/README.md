@@ -14,12 +14,16 @@ This repo has 3 branches:
   * `master`, which will contain your production release
   * `development`, which will contain your main development work
   * `conflicts`, the branch which you will merge with `development`
-1. Checkout the `development` branch:
-`git checkout development`
-2. Attempt to run the project in Android Studio, you'll see there are a lot of syntax errors
-3. Merge the development branch with `conflicts`:    
+1. Fetch all branches from remote:
+`git fetch origin`
+2. Checkout the `development` branch:
+`git checkout origin/development`
+3. Attempt to run the project in Android Studio, you'll see there are a lot of syntax errors
+4. Merge the development branch with `conflicts`:    
 
-      `git merge conflicts`
+      `git merge origin/conflicts`
+      
+You should run into a bunch of merge conflicts across various project files. 
 
 ### Part 3 - Fix conflicts and merge
 1. Use Android Studio to carefully comb through the code and fix all merge conflicts + syntax errors
