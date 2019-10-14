@@ -39,4 +39,4 @@ This repo has 3 branches:
 After your pull-request is merged into `master`, create a tagged release called `v1.0.0` and push it to GitHub.
 
 ### Part 6 - Optional Stretch-Goal
-Use Android Studio's VCS / git tools to resolve merge conflicts visually. Discuss this experience with your TL.
+Use Android Studio's VCS / git tools to resolve merge conflicts visually. Discuss this experience with your classmates.
