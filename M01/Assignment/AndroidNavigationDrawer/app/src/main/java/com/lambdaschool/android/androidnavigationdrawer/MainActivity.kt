@@ -14,7 +14,7 @@ import android.view.Menu
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 
-
+//
     "function onCreate(savedInstanceState: Bundleee?) {"
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
